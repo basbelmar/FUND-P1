@@ -1,12 +1,22 @@
+
+@import '~bootstrap/scss/bootstrap';
+
+@import 'EstiloSitioFundacion';
+
+
+
 body {
 	background: black;
-	font-size: 30px;
+	font-size: 34px;
 }
+
+
+
 
 .container {
 	background: black;
 
-	p {
+	p{
 		font-size: 40px;
 	}
 }
