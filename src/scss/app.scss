@@ -1,22 +1,74 @@
 
 @import '~bootstrap/scss/bootstrap';
 
-@import 'EstiloSitioFundacion';
 
 
 
 body {
-	background: black;
-	font-size: 34px;
+	background-color: skyblue;
+	font-size: 20px;
 }
 
 
 
+.card-deck {
+	margin-right: 100px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
 
-.container {
-	background: black;
+.logo_pequeño{
+	width:  65px;
+}
 
-	p{
-		font-size: 40px;
-	}
+
+.button{
+	color:lightskyblue;
+}
+
+.card-img-top{
+	background-size: cover;
+
+}
+
+.container__modificador {
+	color: aliceblue;
+	background-color: lightskyblue;
+	padding-top: 30px;
+	padding-bottom: 25px;
+
+}
+
+
+
+}
+
+.confondo{
+
+	background-image: url("../fondo.jpg");
+	background-size: 500px;
+}
+
+
+.seccionmedia{
+	background-image: url("../images/fondo.jpg");
+	background-size: 500px;
+
+}
+
+
+
+.jumbotron{
+	padding-right: 80px;
+	padding-left: 80px;
+
+}
+
+.cardnoticias{
+	 width: 48rem;
+}
+
+
+.espaciado{
+	margin-top: 10%;
 }

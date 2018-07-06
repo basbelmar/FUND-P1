@@ -1,1 +1,7 @@
-alert('hola');
+
+
+require('jquery')
+require('popper.js')
+
+require('bootstrap')
+
