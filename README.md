@@ -1,10 +1,47 @@
 # Registro de Modificicaciones
-[Laravel Mix](https://github.com/JeffreyWay/laravel-mix) ese es un link
+
 
 ### Requisitos
-```bash
-El sitio debe contener las páginas Home - Nosotros y Blog
+
+
 ```
-Lo que debiese retorar algo como `6.1.0`
+Requisitos generales:
+	-Página web Institucional.
+	El sitio debe contener las páginas Home - Nosotros y Noticas
+
+	Home se compone de un banner que habla de los servicios 
+	
+	Nosotros cuenta la historia y misión de la fundación
+
+	Noticias muestra artículos recientes
+
+Requisitos específicos:
+	Usar el logo de la fundación
+
+Requerimientos visuales:
+	-Layout:
+		- Creada en brootstrap.
+	- Imágenes entregadas por el cliente.
+	
+
+```
+
+
+
 
 ## Proceso
+
+
+Se selecionan los colores en base al logo.
+
+Se selecionan las imágenes representativas de los servicios principales de la fundación
+
+Para la sección de noticias en Home se usará un fondo con texturas infantiles
+
+
+
+
+
+
+
+
